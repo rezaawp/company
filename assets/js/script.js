@@ -99,7 +99,7 @@ var screenshot = new Swiper('.screenshot-slider', {
     breakpoints: {
         0: {
             slidesPerView: 1,
-        },
+        },  
         991.98: {
             slidesPerView: 2.75,
         },
